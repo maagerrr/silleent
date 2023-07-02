@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @silleent
+- 👀 I’m interested in :
+- 🌱 I’m currently learning : python,c++,c,c#
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : Telegram: t.me/sajlent | Dsc: .sileent
