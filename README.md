@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @silleent
+- 👋 Hi, I’m @maagerrr
 - 👀 I’m interested in :
 - 🌱 I’m currently learning : python,c++,c,c#
 - 💞️ I’m looking to collaborate on ...
